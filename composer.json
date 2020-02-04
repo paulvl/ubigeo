@@ -1,0 +1,19 @@
+{
+    "name": "pvidal/ubigeo",
+    "description": "Implementación de UBIGEO para Perú",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Vidal",
+            "email": "paul@tecactus.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ubigeo\\": "src/"
+        }
+    }
+}
